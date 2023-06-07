@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author SANTIAGO SANCHEZ
+ *
+ */
+module bonus {
+	requires java.desktop;
+}
